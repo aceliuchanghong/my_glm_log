@@ -28,6 +28,8 @@ python cli_demo.py
 
 python web_demo_gradio.py
 
+#conda deactivate
+#conda remove -n myGLM --all
 ## 查看cuda版本和占用情况
 
 nvidia-smi
