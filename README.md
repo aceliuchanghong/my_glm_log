@@ -30,6 +30,8 @@ python cli_demo.py
 
 python web_demo_gradio.py
 
+python openai_api.py
+
 #conda deactivate
 #conda remove -n myGLM --all
 ## 查看cuda版本和占用情况
@@ -37,3 +39,6 @@ python web_demo_gradio.py
 nvidia-smi
 
 nvcc -V
+
+## lfs
+git lfs install --proxy=127.0.0.1:10809
