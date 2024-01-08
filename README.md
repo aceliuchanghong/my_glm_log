@@ -7,8 +7,7 @@ the log of doing ChatGLM model
 build a saas in server then give api,so i can use
 
 * 语音转文字==>faster-whisper git@github.com:SYSTRAN/faster-whisper.git
-* 文字转语音==>TTS没想好看谁的
-* 声音克隆
+* 文字转语音 声音克隆==>OpenVoice git@github.com:myshell-ai/OpenVoice.git
 * llm==>ChatGLM git@github.com:THUDM/ChatGLM3.git LLaMA-7B
 * sd的lora也可以试试==>之后再说
 
