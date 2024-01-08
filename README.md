@@ -25,7 +25,7 @@ conda activate myGLM
 pip install -r requirements.txt --proxy=127.0.0.1:10809
 
 #保证 torch 的版本正确(important)
-
+(pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 --proxy=127.0.0.1:10809)
 python cli_demo.py
 
 python web_demo_gradio.py
